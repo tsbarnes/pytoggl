@@ -1,2 +1,2 @@
-# indicator-toggl
-Toggl app indicator
+# pytoggl
+Toggl python module
